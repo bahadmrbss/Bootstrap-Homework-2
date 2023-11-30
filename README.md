@@ -1,2 +1,2 @@
-# Bootstrap-Homework-2-
+# Bootstrap-Homework-2
 Instagram Clone with Bootstrap
